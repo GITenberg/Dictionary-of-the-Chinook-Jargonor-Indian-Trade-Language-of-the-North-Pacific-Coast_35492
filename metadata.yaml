@@ -12,6 +12,8 @@ covers:
 - cover_type: archival
   image_path: 35492-h/images/cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35492#Dictionary-of-the-Chinook-Jargonor-Indian-Trade-Language-of-the-North-Pacific-Coast
 gutenberg_issued: '2011-03-05'
 gutenberg_type: Text
 identifiers:
